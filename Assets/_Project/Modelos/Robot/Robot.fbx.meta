@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 8106449f2c7515e4ab8d4078f4bcd179
+ModelImporter:
+  serializedVersion: 24501
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Robo|Walk (1)
+      takeName: Robo|Walk
+      internalID: -306752663780528154
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Robo|Fixing
+      takeName: Robo|Fixing
+      internalID: -4627272530152109309
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Robo|Idle
+      takeName: Robo|Idle
+      internalID: 911847946693086102
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Robo|OutFix
+      takeName: Robo|OutFix
+      internalID: -6896907612670365642
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Robo|Walk
+      takeName: Robo|Walk
+      internalID: -1679654035017247753
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Robot(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 64.12118, y: 64.12118, z: 64.12118}
+    - name: Bone
+      parentName: Robot(Clone)
+      position: {x: 0.000009527905, y: 0.0004674712, z: -0.009314982}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.002
+      parentName: Bone
+      position: {x: -0.000009527761, y: 0.008803507, z: 0.00012220156}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.013997261, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: -0, y: 0.0043606483, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.020
+      parentName: Bone.002
+      position: {x: -0.00013064277, y: 0.0030085486, z: 0.0007050922}
+      rotation: {x: -0.7071068, y: -0.0000000033222778, z: -0.0000000048468616, w: 0.7071067}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Bone.002_end
+      parentName: Bone.002
+      position: {x: -0, y: 0.005314539, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_L
+      parentName: Bone
+      position: {x: -0, y: 0.013997261, z: 0}
+      rotation: {x: 0.00000015654922, y: -0.00000015691995, z: 0.69588786, w: 0.71815044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_L.001
+      parentName: Bone_L
+      position: {x: 2.7707384e-10, y: 0.005771635, z: 8.5180536e-11}
+      rotation: {x: 0.00000024447533, y: -0.000000032659234, z: 0.6945951, w: 0.7194009}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Cube.004
+      parentName: Bone_L.001
+      position: {x: 0.00019896566, y: 0.002563631, z: -0.00029790375}
+      rotation: {x: -0.023531273, y: 0.70671517, z: -0.7067151, w: 0.023530923}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Bone_L.002
+      parentName: Bone_L.001
+      position: {x: -5.262904e-10, y: 0.006828638, z: 7.6558204e-11}
+      rotation: {x: 0.000000010163698, y: 0.000000048850293, z: 0.026239289, w: 0.9996557}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.006
+      parentName: Bone_L.002
+      position: {x: -0.000055762528, y: 0.0063619493, z: -0.0002707617}
+      rotation: {x: -0.0049794633, y: 0.7070893, z: -0.7070892, w: 0.004979187}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+    - name: Bone_L.002_end
+      parentName: Bone_L.002
+      position: {x: -0, y: 0.009676147, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_R
+      parentName: Bone
+      position: {x: -0, y: 0.013997261, z: 0}
+      rotation: {x: 0.00000015654922, y: 0.00000015691995, z: -0.69588786, w: 0.71815044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_R.001
+      parentName: Bone_R
+      position: {x: -1.6303509e-11, y: 0.005771635, z: 8.5323505e-11}
+      rotation: {x: 0.00000024447533, y: 0.000000032659234, z: -0.6945951, w: 0.7194009}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Cube.016
+      parentName: Bone_R.001
+      position: {x: -0.0001665008, y: 0.002561468, z: -0.0002968917}
+      rotation: {x: 0.023531273, y: 0.7067152, z: -0.70671505, w: -0.023530923}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: Bone_R.002
+      parentName: Bone_R.001
+      position: {x: 5.262904e-10, y: 0.006828638, z: 6.896193e-11}
+      rotation: {x: 0.000000010163698, y: -0.000000048850293, z: -0.026239289, w: 0.9996557}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.018
+      parentName: Bone_R.002
+      position: {x: 0.0001488769, y: 0.006360637, z: -0.00027076117}
+      rotation: {x: 0.004979465, y: 0.7070893, z: -0.7070892, w: -0.0049791853}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Bone_R.002_end
+      parentName: Bone_R.002
+      position: {x: -0, y: 0.009676147, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_L.003
+      parentName: Robot(Clone)
+      position: {x: 0.000009527905, y: 0.0004674712, z: -0.009314982}
+      rotation: {x: -0.009251376, y: -0.009251405, z: 0.7070463, w: 0.7070463}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bone_L.004
+      parentName: Bone_L.003
+      position: {x: -4.3535935e-11, y: 0.0034721287, z: -2.6559654e-10}
+      rotation: {x: -0.6984579, y: 0.000000034553388, z: -0.000000097571096, w: 0.71565115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.008
+      parentName: Bone_L.004
+      position: {x: -0.000117746924, y: 0.0041669193, z: -0.000029522478}
+      rotation: {x: 0.50045574, y: 0.50046986, z: -0.4995296, w: 0.49954394}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: Bone_L.005
+      parentName: Bone_L.004
+      position: {x: -2.1345769e-11, y: 0.010129439, z: -1.3381816e-11}
+      rotation: {x: 0.00575674, y: -0.00000027476148, z: 1.6358033e-10, w: 0.99998343}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.010
+      parentName: Bone_L.005
+      position: {x: -0.00011899862, y: 0.0047810716, z: -0.00014269947}
+      rotation: {x: 0.4975779, y: 0.49757978, z: -0.5024088, w: 0.5024103}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.9999999}
+    - name: Bone_L.005_end
+      parentName: Bone_L.005
+      position: {x: -0, y: 0.009403088, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_R.003
+      parentName: Robot(Clone)
+      position: {x: 0.000009527905, y: 0.0004674712, z: -0.009314982}
+      rotation: {x: -0.009251376, y: 0.009251405, z: -0.7070463, w: 0.7070463}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bone_R.004
+      parentName: Bone_R.003
+      position: {x: 4.3512534e-11, y: 0.0034721284, z: 2.3113456e-11}
+      rotation: {x: -0.6984579, y: -0.000000034553388, z: 0.000000097571096, w: 0.71565115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.012
+      parentName: Bone_R.004
+      position: {x: 0.00012027621, y: 0.00416691, z: -0.000024181305}
+      rotation: {x: -0.50045574, y: 0.50046986, z: -0.4995296, w: -0.49954394}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: Bone_R.005
+      parentName: Bone_R.004
+      position: {x: 2.4858834e-11, y: 0.010129439, z: -1.3381816e-11}
+      rotation: {x: 0.00575674, y: 0.00000027476148, z: -1.6358033e-10, w: 0.99998343}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.014
+      parentName: Bone_R.005
+      position: {x: 0.00011899862, y: 0.0047810753, z: -0.00014213621}
+      rotation: {x: 0.4975779, y: -0.49757978, z: 0.5024088, w: 0.5024103}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.9999999}
+    - name: Bone_R.005_end
+      parentName: Bone_R.005
+      position: {x: -0, y: 0.009403088, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Bone
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
